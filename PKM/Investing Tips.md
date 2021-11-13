@@ -1,0 +1,11 @@
+# About Investing
+
+[[Ben Carlson]]
+ - Don’t chase yield. 
+ - Don’t speculate.
+ - Don’t invest in something you don’t understand. 
+ - Don’t invest in something with no intrinsic value. 
+ - Don’t expect to [[get rich]] quickly.
+ - Certain investors are now so conditioned to see huge gains in a hurry they assume it’s the norm. It's not.
+
+Immaginate di guadagnare dieci volte il vostro denaro con un investimento. Come sarebbe diversa la vostra vita? Se la vostra risposta è un'alzata di spalle, allora il rischio non è essenziale. Ora immaginate di perdere tutto. Vale la pena di fare quell’investimento?
