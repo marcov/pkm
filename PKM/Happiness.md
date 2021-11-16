@@ -21,3 +21,10 @@
 > Better to make small frequent experiential [[purchases]] rather than few big material ones: leads to persistent happiness we do not adapt to.
 
 > We do not adapt to: debt, commuting in traffic.
+
+> PERMA:
+> - Positive Emotions
+> - Engagement
+> - Relationships
+> - Meaning
+> - Accomplishment
