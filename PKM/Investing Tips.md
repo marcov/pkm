@@ -16,6 +16,9 @@
 ## #Morgan_Housel
 > The key to a lot of investing [[Success]] is to be motivated by opportunity while immune to FOMO
 
+## #Bill_Gates
+- Save like a pessimist and invest like an optimist.
+
 ## #The_Intelligent_Investor (?)
 #ita Immaginate di guadagnare dieci volte il vostro denaro con un investimento. 
 Come sarebbe diversa la vostra vita? Se la vostra risposta è un'alzata di spalle, allora il rischio non è essenziale. 

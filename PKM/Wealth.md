@@ -5,7 +5,7 @@
 > - Desiring [[Money]] beyond what you need to be [[happy]] is just an accounting hobby.
 > - How much [[Money]] people need to be happy is driven more by [[expectations]] than income.
 
-## #Morgan_Housel]
+## #Morgan_Housel
 > Financial wellbeing can’t be measured by merely looking at how much you earn. The gap between what you earn and how much you avoid offsetting those earnings is the figure that matters most.
 > https://www.collaborativefund.com/blog/gains/
 

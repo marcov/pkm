@@ -1,0 +1,18 @@
+site_name: PKM
+site_description: PKM
+site_author: marcov
+repo_url: https://github.com/marcov/pkm
+site_url: https://pkm.sba.lat
+
+docs_dir: pkm
+
+theme: readthedocs
+
+markdown_extensions:
+  - footnotes
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks
