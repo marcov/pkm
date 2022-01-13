@@ -4,7 +4,7 @@ site_author: marcov
 repo_url: https://github.com/marcov/pkm
 site_url: https://pkm.sba.lat
 
-docs_dir: pkm
+docs_dir: docs
 
 theme: readthedocs
 
