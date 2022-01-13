@@ -12,6 +12,6 @@ There are many who find a good alibi far more attractive than [[achievement]]. F
 ## Uncategorized
 The most overlooked strategy for success is patience.
 
-The best things compound over small gains over time. The longer the horizon, the larger the success.
+The best things compound over small gains over [[Time]]. The longer the horizon, the larger the success.
 
 In the short term, you are as good as your intensity. In the long term, you are as good as your consistency.
