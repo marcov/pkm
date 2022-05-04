@@ -1,1 +1,2 @@
 mkdocs-roamlinks-plugin
+jinja2==3.0.3
