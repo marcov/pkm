@@ -1,5 +1,5 @@
 ## #Testosterone
-#Huberman: https://ogjre.com/episode/1683-andrew-huberman
+From #Huberman: https://ogjre.com/episode/1683-andrew-huberman
 
 - The main mental effect of [[testosterone]], is that if makes effort feels good
 - For most species, the males never gets a chance to mate. They have to fight for the right.
