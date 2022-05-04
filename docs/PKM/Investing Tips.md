@@ -13,6 +13,9 @@
 ## #Ben_Felix
 > In many cases, Renting is a better option than owning, both financially and from the perspective of well being
 
+> If you are excited about an investment, it's probably not a good investment. Collective excitement drives price higher.
+
+
 ## #Morgan_Housel
 > The key to a lot of investing [[Success]] is to be motivated by opportunity while immune to FOMO
 
