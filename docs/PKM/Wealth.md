@@ -9,6 +9,20 @@
 > Financial wellbeing can’t be measured by merely looking at how much you earn. The gap between what you earn and how much you avoid offsetting those earnings is the figure that matters most.
 > https://www.collaborativefund.com/blog/gains/
 
+>I want to be rich, because I like nice stuff.
+But what I value far more is to be wealthy,
+because I think independence is one of the
+only ways money can make you happier.
+The trick is realizing that the only way to
+maintain independence is if your appetite
+for stuff - including status - can be
+satiated. The goalpost has to stop moving;
+the expectations have to remain in check.
+Otherwise money has a tendency to be a
+liability masquerading as an asset,
+controlling you more than you use it to
+live a better life.
+
 ## #Naval
 > Seek wealth, not [[Money]] or status. 
 > - Wealth is having assets that earn while you sleep. 

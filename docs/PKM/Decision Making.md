@@ -1,6 +1,7 @@
 ## #Naval
 
 Part of making effective decisions boils down to _dealing with reality._ That means:
+
 - Not having a strong sense of self.
 - Not having preconceived notions of how things should be.
 

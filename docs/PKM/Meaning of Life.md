@@ -1,6 +1,7 @@
 ## #Hunter_S_Thompson
 
 Letter on Finding Your Purpose and Living a Meaningful Life:
+
 - We must make the goal conform to the individual, rather than make the individual conform to the goal
 - A man has to BE something; he has to matter.
 - But a man who procrastinates in his CHOOSING will inevitably have his choice made for him by circumstance.

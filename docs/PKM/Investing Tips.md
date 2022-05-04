@@ -1,4 +1,5 @@
 ## #Ben_Carlson
+
  - Don’t chase yield.
  - Don’t speculate.
  - Don’t invest in something you don’t understand. 

@@ -1,4 +1,5 @@
 ## #Naval
+
 - Money is not gonna solve all your problems, but it's gonna solve all your money problems.
 
 - Money is how we transfer [[Wealth]].
@@ -6,6 +7,7 @@
 - You get rewarded for creative works.
 
 This makes you with no competition. You are authentic:
+
 -  Put your name on it
 - Specific knowledge
 - Accountability
